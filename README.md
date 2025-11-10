@@ -49,9 +49,15 @@ This experience helped me strengthen my understanding of **digital workflows** a
 - Integrated **Grad-CAM** for visual fake region attribution.  
 - Deployed lightweight web interface for real-time inference.  
 - Achieved **90%+ detection accuracy** on benchmark datasets.
-
 ---
 
+### 🔹 [Live Cryptocurrency Price Dashboard with Anomaly Detection](https://github.com/sindhukodati/Live-Cryptocurrency-Price-Dashboard-with-Anomaly-Detection)
+> Real-time dashboard to track crypto prices and flag market anomalies using machine learning. 
+**Tech:** Python, Streamlit, Binance API, Pandas, Isolation Forest, Z-Score, Bollinger Bands
+- Fetches live price, percentage change, and volume data from the Binance API.
+- Implements a hybrid anomaly detection model (ML + statistical) to identify unusual trading patterns.
+
+---
 ### 🔹 [Face Recognition Attendance System](https://github.com/sindhukodati/FACE-RECOGNITION-BASED-ATTENDANCE-MANAGEMENT-SYSTEM)
 > Automated attendance tracking using real-time facial recognition.  
 **Tech:** Python, OpenCV, Haar Cascade, LBPH, Tkinter, SQLite  
