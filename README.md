@@ -128,18 +128,6 @@ This experience helped me strengthen my understanding of **digital workflows** a
 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sindhukodati&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhukodati&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukodati&layout=compact&theme=radical" height="150"/>
-</p>
-
----
 
 ## 🤝 Let’s Connect
 
